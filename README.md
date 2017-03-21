@@ -25,4 +25,4 @@ while True:
    if choose == "2" :
 	 print "游戏结束！！！"
 	 break 
-print "感谢您的参与，您总共猜了 %s 轮，平均%.1f 次猜对。" % (t,c/t)
+  print "感谢您的参与，您总共猜了 %s 轮，平均%.1f 次猜对。" % (t,c/t)
